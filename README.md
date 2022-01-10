@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Will
-- I'm a CSC major at West Chester University
+- I majored in CSC at West Chester University
 - Languages I use: Python, Java, Javascript, C, C#, C++, SQL
